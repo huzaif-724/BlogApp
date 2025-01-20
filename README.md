@@ -1,57 +1,71 @@
-# Todo App
-A simple and intuitive Todo Application built with React and Context API to help users efficiently manage their daily tasks. This app allows users to create, update, delete, and mark tasks as completed with a clean and responsive user interface.
+# Blog Website
+A dynamic and user-friendly blogging platform that enables users to create, share, and interact with content effortlessly. This website supports features like user authentication, commenting, and responsive design to ensure a seamless user experience.
 
 ## Features
 
-📝 Add Tasks: Quickly add new tasks to your to-do list.\
-✏️ Edit Tasks: Update existing tasks with ease.<br />
-❌ Delete Tasks: Remove tasks that are no longer needed. <br />
-✅ Mark as Completed: Toggle tasks as completed or incomplete.<br />
-💾 Local Storage: Saves your tasks in the browser's local storage for persistent task management.<br />
+📝 Create Posts: Write and publish your own blog posts.
+✏️ Edit Posts: Update your existing blog entries easily.<br />
+❌ Delete Posts: Remove content you no longer want to share.<br />
+💬 Comment System: Engage with posts by adding comments.<br />
+🔒 User Authentication: Secure sign-up, login, and logout functionality.<br />
 📱 Responsive Design: Optimized for both desktop and mobile devices.<br />
+
 
 ## Tech Stack
 
-Frontend: React.js\
-State Management: Context API\
-Styling: Tailwind CSS\
-Data Persistence: Local Storage
+Frontend: React.js <br />
+Backend: Node.js with Express.js<br />
+Database: MongoDB<br />
+Styling: Tailwind CSS <br />
+Authentication: JSON Web Tokens (JWT)<br />
 
 ## Getting Started
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/huzaif-724/Todo-App.git
-
+git clone https://github.com/your-username/blog-website.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd Todo-App
-
+cd blog-website
 ```
 
 3. Install dependencies:
 ```bash
+# For backend
+cd backend
 npm install
 
+# For frontend (if separate)
+cd ../frontend
+npm install
 ```
-4. Start the development server
+
+4. Start the development servers:
 ```bash
+# Start backend server
+cd backend
 npm start
 
+# Start frontend server (if applicable)
+cd ../frontend
+npm start
 ```
 
-## Usage
-
-1. Add tasks using the input field.\
-2. Manage tasks by editing, marking them as completed, or deleting them.\
-3. Tasks are saved automatically in local storage.
 
 ## Screenshots
 
-![Screenshot 2025-01-05 184157](https://github.com/user-attachments/assets/4d6cd0f6-d760-4be5-9cc4-606b4b4bddd9)
+![Screenshot 2025-01-20 144640](https://github.com/user-attachments/assets/8dd3cab9-01c0-4a3e-bd96-098e27dbe943)
 
-![Screenshot 2025-01-05 184234](https://github.com/user-attachments/assets/9e8b327c-f6bd-431a-bd46-df8ff7aaafae)
+![Screenshot 2025-01-20 144657](https://github.com/user-attachments/assets/2583cfd7-6bfa-44f7-997b-e685ac5bb7d1)
+
+![Screenshot 2025-01-20 144730](https://github.com/user-attachments/assets/295201f7-4277-4e72-9947-349e1737beaf)
+
+![Screenshot 2025-01-20 144803](https://github.com/user-attachments/assets/1b8aaef6-6587-48d8-82e9-f8431a3065bb)
+
+![Screenshot 2025-01-20 144829](https://github.com/user-attachments/assets/d2c42b89-9b7a-418c-b4b0-6675f4f60cac)
+
+
 
 
