@@ -23,7 +23,7 @@ Authentication: JSON Web Tokens (JWT)<br />
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/blog-website.git
+https://github.com/huzaif-724/BlogApp.git
 ```
 
 2. Navigate to the project directory:
