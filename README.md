@@ -1,9 +1,9 @@
-# Blog Website
-A dynamic and user-friendly blogging platform that enables users to create, share, and interact with content effortlessly. This website supports features like user authentication, commenting, and responsive design to ensure a seamless user experience.
+# Blog App
+A simple and user-friendly platform for creating, sharing, and interacting with blog posts. It includes features like user authentication, commenting, and responsive design to ensure a smooth experience on all devices.
 
 ## Features
 
-📝 Create Posts: Write and publish your own blog posts.
+📝 Create Posts: Write and publish your own blog posts.<br />
 ✏️ Edit Posts: Update your existing blog entries easily.<br />
 ❌ Delete Posts: Remove content you no longer want to share.<br />
 💬 Comment System: Engage with posts by adding comments.<br />
@@ -28,7 +28,7 @@ git clone https://github.com/your-username/blog-website.git
 
 2. Navigate to the project directory:
 ```bash
-cd blog-website
+cd BlogApp
 ```
 
 3. Install dependencies:
@@ -37,7 +37,7 @@ cd blog-website
 cd backend
 npm install
 
-# For frontend (if separate)
+# For frontend 
 cd ../frontend
 npm install
 ```
@@ -48,7 +48,7 @@ npm install
 cd backend
 npm start
 
-# Start frontend server (if applicable)
+# Start frontend server
 cd ../frontend
 npm start
 ```
