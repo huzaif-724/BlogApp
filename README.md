@@ -1,5 +1,5 @@
-# Blog App
-A simple and user-friendly platform for creating, sharing, and interacting with blog posts. It includes features like user authentication, commenting, and responsive design to ensure a smooth experience on all devices.
+# CampusConnect
+A web application designed to foster interaction between junior and senior students, creating a collaborative space for sharing knowledge, tips, and guidance. The platform encourages seniors to share blog posts related to placements, college experiences, and study-related advice, while juniors can engage by asking queries or commenting on posts.
 
 ## Features
 
