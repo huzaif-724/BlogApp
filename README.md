@@ -6,7 +6,7 @@ A web application designed to foster interaction between junior and senior stude
 📝 Create Posts: Write and publish your own blog posts.<br />
 ✏️ Edit Posts: Update your existing blog entries easily.<br />
 ❌ Delete Posts: Remove content you no longer want to share.<br />
-💬 Comment System: Engage with posts by adding comments.<br /> 
+💬 Comment System: Engage with posts by adding comments.<br />  
 🔒 User Authentication: Secure sign-up, login, and logout functionality.<br />
 📱 Responsive Design: Optimized for both desktop and mobile devices.<br />
 
